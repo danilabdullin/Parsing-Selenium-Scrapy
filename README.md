@@ -9,6 +9,6 @@
 
 
 ## Trade_org, Selenium
+##### The task was to collect trading information between certain list of countries. Trade.org is dynamically generated web-site and 
+##### direct links to necessary tables did't work that's why Selenium was used from the very beginning of parsing including authorization.
 
-###### The task was to collect trading information between certain list of countries. Trade.org is dynamically generated web site and 
-###### direct links to necessary tables didn't work that's why Selenium was used from the very beginning of parsing including authorization.
