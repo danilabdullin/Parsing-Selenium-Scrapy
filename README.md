@@ -10,3 +10,6 @@
 ## [Trade_org, Selenium](https://github.com/danilabdullin/Parsing-Selenium-Scrapy/blob/main/Trade_org%2C%20selenium.py)
 ##### The task was to collect trading information between certain list of countries. Trade.org is dynamically generated web-site and direct links to necessary tables did't work that's why Selenium was used from the very beginning of parsing including authorization.
 
+
+## [Chrome extension market](https://github.com/danilabdullin/Parsing-Selenium-Scrapy/tree/main/Chrome%20extensions%20market)
+#### The task was to get information about Chrome extensions on webpage with infinite scroll. As result: Mongo Database.
