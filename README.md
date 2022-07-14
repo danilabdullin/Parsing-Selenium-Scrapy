@@ -1,4 +1,4 @@
-## Bookstores, Scrapy
+## *[Bookstores, Scrapy](https://github.com/danilabdullin/Parsing-Selenium-Scrapy/tree/main/Bookstores%2C%20Scrapy/booksparser)
 
 ##### The task was to collect information from two online bookstores. As result: excel table with name, price, author and link. 
 
